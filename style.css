@@ -99,7 +99,7 @@ section { padding: clamp(64px, 9vw, 128px) clamp(18px, 4vw, 56px); border-bottom
 
 h1, h2, h3 { margin: 0; line-height: 0.96; letter-spacing: -0.055em; }
 h1 {
-  max-width: 950px;
+  max-width: 900px;
   color: var(--red);
   font-family: Anton, Inter, sans-serif;
   font-size: clamp(5.2rem, 16vw, 15rem);
