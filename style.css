@@ -97,7 +97,7 @@ section { padding: clamp(64px, 9vw, 128px) clamp(18px, 4vw, 56px); border-bottom
 }
 .eyebrow::after { content: "↗"; color: var(--lime); transform: rotate(2deg); }
 
-h1, h2, h3 { margin: 0; line-height: 1.2; letter-spacing: -0.08em; }
+h1, h2, h3 { margin: 0; line-height: 1.2; letter-spacing: -0.1em; }
 h1 {
   max-width: 900px;
   color: var(--red);
