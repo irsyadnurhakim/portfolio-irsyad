@@ -4,7 +4,7 @@
   --panel-2: #202024;
   --text: #f3f3ef;
   --muted: #bdbdb4;
-  --red: #ff3434;
+  --red: #f24c4c;
   --lime: #9ee738;
   --line: rgba(243, 243, 239, 0.18);
   --radius: 28px;
@@ -97,7 +97,7 @@ section { padding: clamp(64px, 9vw, 128px) clamp(18px, 4vw, 56px); border-bottom
 }
 .eyebrow::after { content: "↗"; color: var(--lime); transform: rotate(2deg); }
 
-h1, h2, h3 { margin: 0; line-height: 1.4; letter-spacing: -0.5em; }
+h1, h2, h3 { margin: 0; line-height: 1.4; letter-spacing: -0.055em; }
 h1 {
   max-width: 1000px;
   color: var(--red);
