@@ -43,6 +43,12 @@ const projects = {
     tag: 'Visual Design',
     image: 'assets/images/page-07.jpg',
     text: 'Modern audio product visuals using bold product imagery, clean sans-serif typography, subtle sound-wave elements, and clutter-free composition.'
+  },
+  shakey: {
+    title: 'Shakey',
+    tag: 'Branding Design',
+    image: 'assets/images/Artboard 1vshakey.png',
+    text: 'Modern branding visuals for a fast-food chain. The design uses vibrant colors, playful typography, and engaging imagery to appeal to a young audience.'
   }
 };
 
